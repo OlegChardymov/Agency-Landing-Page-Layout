@@ -6,4 +6,3 @@ There is:
 
 HTML, CSS (SASS), JS, PS
 
-Original PSD included 
